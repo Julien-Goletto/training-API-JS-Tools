@@ -9,3 +9,8 @@ content-type: application/json
 {
   "title": "Conan The Barbarian"
 }
+
+###
+
+#Test de la 404
+GET http://localhost:3000/movie HTTP/1.1
