@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=training_API_scripts
+
+version_1 2022-04-04T15:10:46Z System Administrator <root@MacBook-Air-de-Julien.local> # structure de base
+version_2 2022-04-04T15:35:50Z System Administrator <root@MacBook-Air-de-Julien.local> # seeding db
