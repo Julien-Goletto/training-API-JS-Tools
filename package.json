@@ -1,0 +1,29 @@
+{
+  "name": "training-api-js-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "DEBUG=App,dataMapper,Controller node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julien-Goletto/training-API-JS-Tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julien-Goletto/training-API-JS-Tools/issues"
+  },
+  "homepage": "https://github.com/Julien-Goletto/training-API-JS-Tools#readme",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  }
+}

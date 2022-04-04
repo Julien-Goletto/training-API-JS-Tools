@@ -1,0 +1,11 @@
+GET http://localhost:3000/movies HTTP/1.1
+
+###
+
+# Pour une requête POSt, bien epnser à sauter une ligne entre la route et le contenu du header
+POST http://localhost:3000/movies HTTP/1.1
+content-type: application/json
+
+{
+  "title": "Conan The Barbarian"
+}
